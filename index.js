@@ -1,6 +1,12 @@
 // Write your code here
 
-class Breakfast {}
+class Breakfast {
+  
+   constructor(name, breed) {
+    this.name = name;
+    this.breed = breed;
+  }
+}
 
 let a =new Breakfast("eggs", "juice")
 
