@@ -8,7 +8,7 @@ class Breakfast {
   }
 }
 
-let a =new Breakfast("eggs", "juice")
+let a = new Breakfast("eggs", "juice")
 
 
 // class breakfast {}
