@@ -13,7 +13,7 @@ let a = new Breakfast("eggs", "juice")
 
 class Lunch {
   
-     constructor(salad, soup) {
+     constructor(salad, soup,drink) {
     this.salad = salad;
     this.soup = soup;
     this.drink = drink;
@@ -24,10 +24,7 @@ class Lunch {
 
 
     newlunch = new Lunch('side salad', 'broccoli cheddar soup', 'iced tea')
-    expect(newlunch.salad).to.equal('side salad')
-    expect(newlunch.soup).to.equal('broccoli cheddar soup')
-    expect(newlunch.drink).to.equal('iced tea')
-  })
+
 
 
 // class breakfast {}
