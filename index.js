@@ -27,7 +27,7 @@ class Lunch {
 
 
 
-class dinner {
+class Dinner {
   
        constructor(salad, soup,entree ,dessert) {
     this.salad = salad;
@@ -37,7 +37,7 @@ class dinner {
   }
 }
 
-    newdinner = new dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
+    newdinner = new Dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
 
     
     
