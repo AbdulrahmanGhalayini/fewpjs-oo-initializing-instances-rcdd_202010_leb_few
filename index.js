@@ -27,6 +27,19 @@ class Lunch {
 
 
 
-// class breakfast {}
+class Dinner {
+  
+       constructor(salad, soup,entree ,dessert) {
+    this.salad = salad;
+    this.soup = soup;
+    this.entree = entree;
+    this.dessert = dessert;
+  }
+}
 
-// let a =new breakfast()
+    newdinner = new Dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
+
+    
+    
+    
+    
