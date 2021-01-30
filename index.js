@@ -2,7 +2,7 @@
 
 class Breakfast {}
 
-let a =new Breakfast()
+let a =new Breakfast( eg)
 
 
 // class breakfast {}
