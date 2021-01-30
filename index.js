@@ -1,3 +1,5 @@
 // Write your code here
 
-class Dog {}
+class breakfast {}
+
+let a =new breakfast()
