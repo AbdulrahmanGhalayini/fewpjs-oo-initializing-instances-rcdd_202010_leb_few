@@ -20,10 +20,9 @@ class Lunch {
   }
 }
 
-// let a =new breakfast()
 
 
-    newlunch = new Lunch('side salad', 'broccoli cheddar soup', 'iced tea')
+    let newlunch = new Lunch('side salad', 'broccoli cheddar soup', 'iced tea')
 
 
 
@@ -37,7 +36,7 @@ class Dinner {
   }
 }
 
-    newdinner = new Dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
+  let   newdinner = new Dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
 
     
     
