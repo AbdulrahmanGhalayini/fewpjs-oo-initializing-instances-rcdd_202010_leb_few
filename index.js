@@ -1,8 +1,8 @@
 // Write your code here
 
-class breakfast {}
+class Breakfast {}
 
-let a =new breakfast()
+let a =new Breakfast()
 
 
 // class breakfast {}
